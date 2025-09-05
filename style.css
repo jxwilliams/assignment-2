@@ -1,0 +1,53 @@
+
+/* page text */
+body {
+  background: white;
+  color: black;
+  font-family: Georgia, Garamond, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 12px;
+}
+
+
+
+/* headings */
+h1 {
+  text-align: center;          /* main heading centered */
+  font-weight: bold;           /* 22pt bold approx */
+  font-size: 22pt;
+  margin-top: 16px;
+}
+h2 {
+  text-align: left;            
+  font-weight: normal;
+  font-size: 18pt;
+  border-bottom: 1px solid #ddd;  
+  padding-bottom: 4px;
+}
+ h1{
+
+    text-align: center;
+ }
+
+
+
+
+
+
+img { width: 500px; height: 300px; display: block; }
+
+
+
+p {
+  font-style: italic;          
+  background: white;         
+  padding: 10px 12px;
+  margin: 12px 0;
+  border-left: 4px solid white;
+  text-align: center;
+}
+
+
+
